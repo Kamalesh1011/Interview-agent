@@ -1,0 +1,7 @@
+.venv/
+env/
+__pycache__/
+*.pyc
+uploads/
+faiss_index.bin
+faiss_docs.json

@@ -1,0 +1,15 @@
+flask
+flask-cors
+pymongo
+requests
+PyPDF2
+werkzeug
+crewai
+langchain-core
+langchain-community
+langchain
+ollama
+chromadb
+numpy
+pydantic
+pydantic-core
